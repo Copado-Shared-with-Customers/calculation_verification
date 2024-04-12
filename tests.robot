@@ -21,7 +21,7 @@ Verify Addition Operation On Calculator
     ClickText          4
     ClickText          +
     ClickText          5
-    VerifyText          Calculate
+    ClickText          Calculate
 
     # Here, we perform calculations using Copado Robotic Testing.
     # To confirm the accuracy of the calculator's sums, we store the result in a variable.
